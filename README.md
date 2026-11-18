@@ -87,6 +87,7 @@ Track competitor hiring patterns to predict product roadmap and expansion:
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Glassdoor](https://www.glassdoor.com/)
 - [levels.fyi](https://www.levels.fyi/) — Compensation data across tech companies.
+- [Google Jobs Scraper](https://apify.com/johnvc/Google-Jobs-Scraper) — Apify API that returns Google Jobs listings as JSON, for tracking which roles a competitor is hiring for and where.
 
 ## Reports & Research
 
